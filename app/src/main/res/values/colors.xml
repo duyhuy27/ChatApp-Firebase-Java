@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#142232</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#8C1D18</color>
+    <color name="received_background_mess">#090D16</color>
+
+    <color name="purple_normal">#9C4EFF</color>
+    <color name="Red_below">#DB587D</color>
+    <color name="background_iconImg">#898FB1</color>
+    <color name="backgroud_app">#382E4E</color>
+    <color name="same_black">#120D1E</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SentMessageStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/background_sent_message</item>
+        <item name="android:paddingStart">@dimen/_12sdp</item>
+        <item name="android:paddingTop">@dimen/_8sdp</item>
+        <item name="android:paddingEnd">@dimen/_12sdp</item>
+        <item name="android:paddingBottom">@dimen/_8sdp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="ReceivedMessageStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/_4sdp</item>
+        <item name="android:layout_marginEnd">@dimen/_4sdp</item>
+        <item name="android:background">@drawable/background_received_message</item>
+        <item name="android:paddingStart">@dimen/_12sdp</item>
+        <item name="android:paddingTop">@dimen/_8sdp</item>
+        <item name="android:paddingEnd">@dimen/_12sdp</item>
+        <item name="android:paddingBottom">@dimen/_8sdp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/regular</item>
+        <item name="android:textSize">@dimen/_13ssp</item>
+    </style>
+
+
+
+</resources>

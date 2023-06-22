@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Huyndph30375_lab2_2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/backgroud_app</item>
+        <item name="android:statusBarColor">@color/backgroud_app</item>
+    </style>
+</resources>
